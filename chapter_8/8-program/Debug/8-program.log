@@ -1,0 +1,4 @@
+﻿  Triangle.cpp
+E:\VS2019_Project\Programming Fundamentals (C&C++)\chapter_8\8-program\Triangle.cpp(54,17): error C2601: “CTriangle::display”: 本地函数定义是非法的
+E:\VS2019_Project\Programming Fundamentals (C&C++)\chapter_8\8-program\Triangle.cpp(39): message : 此行有一个“{”没有匹配项
+E:\VS2019_Project\Programming Fundamentals (C&C++)\chapter_8\8-program\Triangle.cpp(39): fatal error C1075: “{”: 未找到匹配令牌
